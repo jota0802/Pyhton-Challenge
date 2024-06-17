@@ -45,7 +45,7 @@ Para executar o questionário, é necessário ter o Python instalado. De prefere
 
 ## Link repositório com o Arquivo: questionário_formula_e.py
 
-- [questionário_formula_e.py](https://github.com/jota0802/Pyhton-Challenge)
+- [questionário_formula_e.py](https://github.com/jota0802/Pyhton-Challenge/blob/main/questionario_formula_e.py)
 
 
 ## Integrantes 
